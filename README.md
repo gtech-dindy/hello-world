@@ -1,2 +1,4 @@
 # hello-world
-sample repository practicec
+sample repository practice
+
+This is to test the changes
